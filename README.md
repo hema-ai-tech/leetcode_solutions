@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
