@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
