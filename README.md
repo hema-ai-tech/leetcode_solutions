@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
