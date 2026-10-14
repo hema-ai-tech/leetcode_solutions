@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
