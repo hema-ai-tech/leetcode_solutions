@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0523-continuous-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Quicksort
 |  |
@@ -127,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/hema-ai-tech/leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
